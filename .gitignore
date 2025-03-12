@@ -31,4 +31,15 @@ coverage
 
 test-results/
 playwright-report/
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Qodo gen
 .qodo
+
+# Aider
+.aider*
